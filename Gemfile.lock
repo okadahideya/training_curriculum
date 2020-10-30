@@ -202,6 +202,7 @@ GEM
       nokogiri (~> 1.8)
     zeitwerk (2.4.1)
 
+
 PLATFORMS
   ruby
 
